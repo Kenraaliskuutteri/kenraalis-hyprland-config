@@ -1,0 +1,1 @@
+# kenraalis-hyprland-config
